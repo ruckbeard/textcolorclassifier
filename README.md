@@ -11,7 +11,7 @@ You can see it working live here:
 http://ec2-54-235-14-179.compute-1.amazonaws.com/predict
 
 You can also input your own values by entering them through the url
-http://ec2-54-235-14-179.compute-1.amazonaws.com/predict/<red>/<green>/blue
+http://ec2-54-235-14-179.compute-1.amazonaws.com/predict/{red}/{green}/{blue}
 
 for example:
 http://ec2-54-235-14-179.compute-1.amazonaws.com/predict/240/140/100
