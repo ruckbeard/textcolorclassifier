@@ -1,6 +1,6 @@
 import pickle
 
-filename = 'finalized_model.sav'
+filename = 'model_output/finalized_model.sav'
 model = pickle.load(open(filename, 'rb'))
 
 
